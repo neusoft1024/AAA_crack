@@ -1,0 +1,2 @@
+HKEY_USERS,
+.DEFAULT\\Software\\VB and VBA Program Settings\\NSUAAAC

@@ -1,0 +1,7 @@
+POST /NSUAAAWS/Default.asmx HTTP/1.1
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; MS Web Services Client Protocol 4.0.30319.117929)
+Content-Type: text/xml; charset=utf-8
+SOAPAction: "http://tempuri.org/%s"
+Host: 100.0.0.10
+Content-Length: %d
+Expect: 100-continue
